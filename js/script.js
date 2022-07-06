@@ -1,12 +1,33 @@
 "use strict";
 
-const category = 'toys';
+//const isChecked = true
+    //  isOpen = false
 
-console.log(`http://someurl/${category}`);
+//console.log(isChecked || isOpen);
 
-const user = 'Ivan';
+/////////////
+//console.log('arr' + ' - object');
+//console.log(4 + ' - object');
+////////////////
+//let incr = 10
+//   decr = 10
 
-alert(`Привет, ${user}`);
+//incr++
+//decr--
+
+//console.log(incr);
+//console.log(decr);
+////////////
+//console.log(2*4 === "8");
+////////////////////////////////////////////
+
+//const category = 'toys';
+
+//console.log(`http://someurl/${category}`);
+
+//const user = 'Ivan';
+
+//alert(`Привет, ${user}`);
 
 
 
